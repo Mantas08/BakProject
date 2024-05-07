@@ -1,0 +1,14 @@
+.rbc-calendar {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.rbc-event {
+  background-color: #826251;
+  color: #fff; /* White text color */
+  font-size: 15px; /* Adjust the font size to make events smaller */
+  padding: 2px 5px; /* Adjust padding to reduce event size */
+}
+
+.rbc-toolbar {
+  background-color: #ffffff; /* Light gray background for toolbar */
+}

@@ -1,0 +1,9 @@
+php artisan make:controller Api/UserConstroller --model=User --requests --resource --api
+php artisan make:migration create_table_name
+php artisan migrate
+php artisan migrate:rollback
+php artisan migrate:fresh
+https://www.youtube.com/watch?v=96YcViCGlRo
+
+Laravel Framework 10.43.0
+PHP 8.1.2
